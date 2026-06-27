@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Gitin-g/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Gitin-g/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
