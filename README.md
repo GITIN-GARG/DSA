@@ -17,18 +17,25 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Gitin-g/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gitin-g/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gitin-g/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gitin-g/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gitin-g/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Gitin-g/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Gitin-g/DSA/tree/master/0177-nth-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
