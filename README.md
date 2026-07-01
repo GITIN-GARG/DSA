@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gitin-g/DSA/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/Gitin-g/DSA/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gitin-g/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Gitin-g/DSA/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gitin-g/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Gitin-g/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
